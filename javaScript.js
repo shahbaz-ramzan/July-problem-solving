@@ -66,3 +66,41 @@ console.log("Hello, world!");
 
 // let result = checkVowel(ch);
 // alert(result);
+
+//Q6:Calculate the factorial of a given number.
+
+// let number = parseInt(prompt("Enter the number"));
+
+// function recursionFunction(number) {
+//   if (number < 0) {
+//     return "negative number have not factorial";
+//   }
+//   if (number === 0 || number === 1) {
+//     return 1;
+//   }
+//   return number * recursionFunction(number - 1);
+// }
+
+// let result = recursionFunction(number);
+// alert(result);
+
+// let number = parseInt(prompt("enter the number"));
+
+// function recursion(number) {
+//   if (number < 0) {
+//     return "negative number have no factorial";
+//   }
+//   if (number === 0 || number === 1) {
+//     return 1;
+//   }
+
+//   return number * recursion(number - 1);
+// }
+
+// let result = recursion(number);
+
+// alert(result);
+// console.log(result);
+
+// Q7:Write a program to find the largest of three numbers.
+// let a = parseInt(prompt("enter first number"));
