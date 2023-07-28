@@ -1,6 +1,6 @@
 // Q1:Write a JavaScript program to print "Hello, World!" to the console.
 
-console.log("Hello, world!");
+// console.log("Hello, world!");
 
 //Q2:Write a program to add two numbers and display the result.
 

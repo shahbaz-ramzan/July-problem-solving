@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-card {
+  max-width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.profile-card h2 {
+  margin: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.profile-card p {
+  margin: 10px 0;
+  color: #666;
+}
+
+/* Optional: Add a hover effect to the profile card */
+.profile-card:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
