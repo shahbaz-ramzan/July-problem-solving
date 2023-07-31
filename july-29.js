@@ -14,12 +14,12 @@
 // Example Input: [1, 2, 3]
 // Expected Output: true
 
-let arr = [1, 2, 3];
+// let arr = [1, 2, 3];
 
-function fun(arr) {
-  return arr.every((el) => {
-    return el > 0;
-  });
-}
+// function fun(arr) {
+//   return arr.every((el) => {
+//     return el > 0;
+//   });
+// }
 
-console.log(fun(arr));
+// console.log(fun(arr));

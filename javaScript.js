@@ -2,7 +2,7 @@
 
 // console.log("Hello, world!");
 
-//Q2:Write a program to add two numbers and display the result.
+// Q2:Write a program to add two numbers and display the result.
 
 // let a = parseInt(prompt("Enter the first value"));
 // let b = parseInt(prompt("Enter the second value"));
@@ -11,7 +11,7 @@
 
 // alert(c);
 
-//Q3: Calculate the area of a circle given its radius as input.
+// Q3: Calculate the area of a circle given its radius as input.
 
 // let radius = parseInt(prompt("Enter the radius"));
 
@@ -67,7 +67,7 @@
 // let result = checkVowel(ch);
 // alert(result);
 
-//Q6:Calculate the factorial of a given number.
+// Q6:Calculate the factorial of a given number.
 
 // let number = parseInt(prompt("Enter the number"));
 
